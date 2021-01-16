@@ -1,4 +1,5 @@
 # MBRBOMBER
+The project given has not original MBR! It has nyan cat MBR!
 MBRBOMBER is a FMV(Fun-Made-Virus) I coded that overwries your MBR with a message.
 THIS PROGRAM IS NOT TO DAMAGE ANOTHER PERSONS!
 Source code is made in C++ and in ASM.
@@ -24,3 +25,4 @@ If you want to add your own MBR, follow this steps:
 10. Copy the code that will appear
 11. Paste the code onto line 207
 12. Compile and DONE!
+
